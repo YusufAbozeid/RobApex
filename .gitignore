@@ -1,0 +1,25 @@
+# Compiled firmware & binary output
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+build/
+output/
+
+# Arduino IDE cache
+.arduino/
+*.cache
+
+# Editors & OS
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / Scratch files
+scratch/
+*.tmp
